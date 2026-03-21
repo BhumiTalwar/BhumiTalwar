@@ -7,7 +7,7 @@ I am a C++ Developer currently focused on contributing to **LibreOffice** and pr
 I am currently active in the LibreOffice development community, working on core C++ improvements and QA documentation.
 
 ### 🔹 [tdf#145759: Use M_PI constant instead of magic numbers](https://gerrit.libreoffice.org/c/core/+/202290)
-* **Status:** Under Review by (https://gerrit.libreoffice.org/c/core/+/202290)
+* **Status:** Under Review (https://gerrit.libreoffice.org/c/core/+/202290)
 * **Task:** Replaced hardcoded "magic numbers" for Pi with the standard `M_PI` constant in the `sal` module.
 * **Skills:** C++, Math headers, Unit Testing (`cppunit`).
 
