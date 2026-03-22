@@ -1,6 +1,6 @@
 # Hi there, I'm Bhumi! 👋
 
-I'm a C++ Software Developer currently focused on contributing to **LibreOffice**. I have really leaned into software remediation- talking clunky, outdated apps and refactoring them so they actually scale.
+I'm a C++ Software Developer currently focused on contributing to **LibreOffice**. I have really leaned into software remediation- taking clunky, outdated apps and refactoring them so they actually scale.
 
 ## 🛠️ My LibreOffice Contributions (GSoC 2026)
 
