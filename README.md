@@ -1,6 +1,6 @@
 # Hi there, I'm Bhumi! 👋
 
-I am a C++ Developer currently focused on contributing to **LibreOffice**. I specialize in code modernization and software quality assurance.
+I'm a C++ Developer currently focused on contributing to **LibreOffice**. I have specialized in code modernization and software Engineering.
 
 ## 🛠️ My LibreOffice Contributions (GSoC 2026)
 
@@ -18,11 +18,11 @@ I am currently active in the LibreOffice development community, working on core 
 
 ## 📈 Tech Stack
 * **Languages:** C++, Git Bash
-* **Tools:** Gerrit Code Review, Jenkins CI/CD, LODE (LibreOffice Development Environment)
-* **Operating Systems:** Windows (Cygwin/LODE)
+* **Tools:** Gerrit Code Review, CI/CD, LODE (LibreOffice Development Environment)
+* **Operating Systems:** Windows (LODE)
 
 ---
-📫 **How to reach me:** [bhumitalwar44@gmail.com](mailto:bhumitalwar44@gmail.com)
+📫 **Reach me through:** [bhumitalwar44@gmail.com](mailto:bhumitalwar44@gmail.com) Response within 24 hours
 
 <!--
 **BhumiTalwar/BhumiTalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
