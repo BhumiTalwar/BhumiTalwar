@@ -1,6 +1,6 @@
 # Hi there, I'm Bhumi! 👋
 
-I'm a C++ Developer currently focused on contributing to **LibreOffice**. I have specialized in code modernization and software Engineering.
+I'm a C++ Software Developer currently focused on contributing to **LibreOffice**. I have really leaned into software remediation- talking clunky, outdated apps and refactoring them so they actually scale.
 
 ## 🛠️ My LibreOffice Contributions (GSoC 2026)
 
@@ -12,7 +12,7 @@ I am currently active in the LibreOffice development community, working on core 
 * **Skills:** C++, Math headers, Unit Testing (`cppunit`).
 
 ### 🔹 [tdf#171407: Bug Reproduction & Verification](https://gerrit.libreoffice.org/c/core/+/202270)
-* **Status: SUCCESS (Patch Set 3)
+* **Status:** SUCCESS (Patch Set 3)
 * **Task:** Created detailed technical notes for reproducing and verifying bugs to assist the QA team.
 * **Skills:** Technical Writing, QA Analysis.
 
