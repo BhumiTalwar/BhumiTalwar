@@ -1,20 +1,10 @@
 # Hi there, I'm Bhumi! 👋
 
-I'm a C++ Software Developer currently focused on contributing to **LibreOffice**. I have really leaned into software remediation- taking clunky, outdated apps and refactoring them so they actually scale.
-
-## 🛠️ My LibreOffice Contributions (GSoC 2026)
+I'm a C++ Software Developer. I have really leaned into software remediation- taking clunky, outdated apps and refactoring them so they actually scale.
 
 I am currently active in the LibreOffice development community, working on core C++ improvements and QA documentation.
 
-### 🔹 [tdf#145759: Use M_PI constant instead of magic numbers](https://gerrit.libreoffice.org/c/core/+/202290)
-* **Status:** SUCCESS (https://gerrit.libreoffice.org/c/core/+/202290)
-* **Task:** Replaced hardcoded "magic numbers" for Pi with the standard `M_PI` constant in the `sal` module.
-* **Skills:** C++, Math headers, Unit Testing (`cppunit`).
-
-### 🔹 [tdf#171407: Bug Reproduction & Verification](https://gerrit.libreoffice.org/c/core/+/202270)
-* **Status:** SUCCESS (Patch Set 3)
-* **Task:** Created detailed technical notes for reproducing and verifying bugs to assist the QA team.
-* **Skills:** Technical Writing, QA Analysis.
+* **Skills:** Technical Writing, C++, Math headers, Unit Testing (`cppunit`), QA Analysis.
 
 ## 📈 Tech Stack
 * **Languages:** C++, Git Bash
